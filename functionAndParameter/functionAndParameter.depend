@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1505573794 source:e:\github_repository\c++primer\functionandparameter\main.cpp
+	<iostream>
+	<complex>
+	<string>
+
